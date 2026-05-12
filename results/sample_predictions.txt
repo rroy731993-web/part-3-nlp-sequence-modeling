@@ -1,0 +1,15 @@
+TEXT: need information payment process ticket number please respond soon possible
+PREDICTION: neutral
+
+TEXT: need information payment process
+PREDICTION: neutral
+
+TEXT: refund process fast convenient appreciate quick response
+PREDICTION: neutral
+
+TEXT: refund still pending experience frustrating ticket number
+PREDICTION: neutral
+
+TEXT: please tell update account details
+PREDICTION: neutral
+
